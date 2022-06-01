@@ -8,11 +8,11 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 <br><br>
 
-- 👨🏽‍💻 I’m currently working on Blockchain project;
+- 👨🏽‍💻 I’m an expert Web && Blockchain developer;
 - 🌱 I’m currently learning Rust; 
 - 💬 Ask me about anything, I am happy to help;
-- I am a senior blockchain developer with a solid backgroundin different programming areas. Looking to take a part in a challenging project
-related to blockchain and cryptocurrencies.
+- I am a web && blockchain developer with a solid backgroundin different programming areas. Looking to take a part in a challenging project
+related to web && blockchain and cryptocurrencies.
 I have a good understanding of decentralized technologies such as Ethereum, Binance, Avalanche, and Polygon and have done many projects in those fields. I have a lot of experience and practical expertise in smart contract development, creating tests for Ethereum.
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>

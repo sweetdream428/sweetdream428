@@ -4,7 +4,7 @@
 </p>
 
 <p align='center'>
-  <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px><h2 font-weight="bold">About me</h2> 
+  <h2 font-weight="bold">About me</h2> 
 <br><br>
 
 - 👨🏽‍💻 I’m currently working on Blockchain project;

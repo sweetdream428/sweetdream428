@@ -62,7 +62,7 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 </table>
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies
+## Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=secretcryptoexpert&layout=compact&theme=algolia" alt="secretcryptoexpert" width="600px"/></a> </p>
 
 
@@ -70,9 +70,3 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
-
-<!-- https://github.com/Ayan-thecodeking/akshitagupta15june/blob/output/github-contribution-grid-snake.gif?raw=true -->
-<!---
-STAR-DEV95/STAR-DEV95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
